@@ -1,9 +1,10 @@
 {
-  "name": "calculater",
+  "name": "saifi_developer-cli_calculater",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
